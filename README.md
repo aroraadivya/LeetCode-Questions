@@ -20,11 +20,13 @@ Collection of LeetCode questions.
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3394-minimum-array-end) |
 ## Sorting
 |  |
@@ -38,4 +40,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+## Sliding Window
+|  |
+| ------- |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 <!---LeetCode Topics End-->
