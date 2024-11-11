@@ -7,6 +7,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [2716-prime-subtraction-operation](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2716-prime-subtraction-operation](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Bit Manipulation
@@ -44,4 +46,16 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2716-prime-subtraction-operation) |
+## Greedy
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2716-prime-subtraction-operation) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
