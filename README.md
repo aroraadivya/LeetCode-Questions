@@ -137,4 +137,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0787-sliding-puzzle) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
