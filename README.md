@@ -92,6 +92,7 @@ Collection of LeetCode questions.
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1972-rotating-the-box) |
@@ -168,4 +169,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
