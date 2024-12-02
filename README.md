@@ -143,6 +143,7 @@ Collection of LeetCode questions.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0787-sliding-puzzle](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions.
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
 |  |
@@ -173,4 +175,12 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0061-rotate-list) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
