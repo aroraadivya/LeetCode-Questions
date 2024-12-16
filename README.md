@@ -8,6 +8,7 @@ Collection of LeetCode questions.
 | ------- |
 | [0070-climbing-stairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [2716-prime-subtraction-operation](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2716-prime-subtraction-operation) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Collection of LeetCode questions.
 | [3427-special-array-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -153,6 +155,7 @@ Collection of LeetCode questions.
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -188,6 +191,7 @@ Collection of LeetCode questions.
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Breadth-First Search
 |  |
 | ------- |
