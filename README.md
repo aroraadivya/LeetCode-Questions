@@ -227,6 +227,7 @@ Collection of LeetCode questions.
 | [0101-symmetric-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -244,6 +245,7 @@ Collection of LeetCode questions.
 | ------- |
 | [0101-symmetric-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
