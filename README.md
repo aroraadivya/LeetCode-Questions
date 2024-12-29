@@ -16,6 +16,7 @@ Collection of LeetCode questions.
 | [0494-target-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1063-best-sightseeing-pair) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2164-two-best-non-overlapping-events) |
 ## Memoization
 |  |
@@ -32,6 +33,7 @@ Collection of LeetCode questions.
 | [1063-best-sightseeing-pair](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1755-defuse-the-bomb) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1917-maximum-average-pass-ratio) |
@@ -190,6 +192,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2232-adding-spaces-to-a-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
