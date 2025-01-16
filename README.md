@@ -55,6 +55,7 @@ Collection of LeetCode questions.
 | [2358-number-of-ways-to-split-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2465-shifting-letters-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2465-shifting-letters-ii) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions.
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2509-minimize-xor](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -356,4 +358,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
