@@ -36,6 +36,7 @@ Collection of LeetCode questions.
 | [1025-minimum-cost-for-tickets](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1524-string-matching-in-an-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -253,6 +255,7 @@ Collection of LeetCode questions.
 | ------- |
 | [0787-sliding-puzzle](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1972-rotating-the-box](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -271,6 +274,7 @@ Collection of LeetCode questions.
 | [0101-symmetric-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0787-sliding-puzzle) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -279,6 +283,7 @@ Collection of LeetCode questions.
 ## Graph
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3189-find-champion-ii) |
@@ -287,6 +292,7 @@ Collection of LeetCode questions.
 ## Shortest Path
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Depth-First Search
 |  |
