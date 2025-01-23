@@ -37,6 +37,7 @@ Collection of LeetCode questions.
 | [1025-minimum-cost-for-tickets](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1524-string-matching-in-an-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions.
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -261,6 +263,7 @@ Collection of LeetCode questions.
 | [0407-trapping-rain-water-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1972-rotating-the-box) |
@@ -283,6 +286,7 @@ Collection of LeetCode questions.
 | [0407-trapping-rain-water-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0787-sliding-puzzle) |
+| [1396-count-servers-that-communicate](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -309,6 +313,7 @@ Collection of LeetCode questions.
 | ------- |
 | [0101-symmetric-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1396-count-servers-that-communicate](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -380,4 +385,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
