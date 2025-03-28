@@ -96,6 +96,7 @@ Collection of LeetCode questions.
 | [2533-bitwise-xor-of-all-pairings](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2690-house-robber-iv](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2690-house-robber-iv) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions.
 | [2164-two-best-non-overlapping-events](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -280,6 +282,7 @@ Collection of LeetCode questions.
 | [2232-adding-spaces-to-a-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -317,6 +320,7 @@ Collection of LeetCode questions.
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2434-design-a-number-container-system](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2868-continuous-subarrays) |
@@ -396,6 +400,7 @@ Collection of LeetCode questions.
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
@@ -431,6 +436,7 @@ Collection of LeetCode questions.
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -569,6 +575,7 @@ Collection of LeetCode questions.
 | [0854-making-a-large-island](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
