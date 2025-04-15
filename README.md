@@ -96,6 +96,7 @@ Collection of LeetCode questions.
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions.
 | [2164-two-best-non-overlapping-events](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2280-count-good-triplets-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2690-house-robber-iv](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2690-house-robber-iv) |
@@ -563,15 +565,18 @@ Collection of LeetCode questions.
 ## Ordered Set
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2868-continuous-subarrays) |
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Backtracking
 |  |
@@ -589,6 +594,7 @@ Collection of LeetCode questions.
 | ------- |
 | [0191-number-of-1-bits](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0191-number-of-1-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2280-count-good-triplets-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Trie
 |  |
 | ------- |
@@ -651,4 +657,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2050-count-good-numbers) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
