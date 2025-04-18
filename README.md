@@ -387,6 +387,7 @@ Collection of LeetCode questions.
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
