@@ -62,6 +62,7 @@ Collection of LeetCode questions.
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
@@ -204,6 +205,7 @@ Collection of LeetCode questions.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -363,6 +365,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0868-push-dominoes) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
