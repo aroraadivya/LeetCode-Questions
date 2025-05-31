@@ -82,6 +82,7 @@ Collection of LeetCode questions.
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0945-snakes-and-ladders](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -531,6 +532,7 @@ Collection of LeetCode questions.
 | [0407-trapping-rain-water-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -569,6 +571,7 @@ Collection of LeetCode questions.
 | [0787-sliding-puzzle](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
