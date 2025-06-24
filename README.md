@@ -138,6 +138,7 @@ Collection of LeetCode questions.
 | [2280-count-good-triplets-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2358-number-of-ways-to-split-array) |
@@ -432,6 +433,7 @@ Collection of LeetCode questions.
 | [1972-rotating-the-box](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
