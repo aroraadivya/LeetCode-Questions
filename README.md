@@ -83,6 +83,7 @@ Collection of LeetCode questions.
 | [0407-trapping-rain-water-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0494-target-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0787-sliding-puzzle) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions.
 | ------- |
 | [0075-sort-colors](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
+| [0594-longest-harmonious-subsequence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -271,6 +273,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0594-longest-harmonious-subsequence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -325,6 +328,7 @@ Collection of LeetCode questions.
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1364-tuple-with-same-product) |
@@ -347,6 +351,7 @@ Collection of LeetCode questions.
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1755-defuse-the-bomb) |
