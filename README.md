@@ -595,6 +595,7 @@ Collection of LeetCode questions.
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1170-shortest-common-supersequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1502-construct-k-palindrome-strings) |
