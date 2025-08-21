@@ -1,22 +1,18 @@
 class Solution {
 public:
     int numSubmat(vector<vector<int>>& mat) {
-        int m = mat.size(), n = mat[0].size();
-        vector<vector<int>> g(m, vector<int>(n));
-        for (int i = 0; i < m; ++i) {
-            for (int j = 0; j < n; ++j) {
-                if (mat[i][j] == 1) {
-                    g[i][j] = j == 0 ? 1 : 1 + g[i][j - 1];
-                }
+        int m = mat.size(), n = mat[0].size(), ans = 0;
+        vector<int> heights(n, 0);
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (mat[i][j] == 0) heights[j] = 0;
+                else heights[j] += 1;
             }
-        }
-        int ans = 0;
-        for (int i = 0; i < m; ++i) {
-            for (int j = 0; j < n; ++j) {
-                int col = 1 << 30;
-                for (int k = i; k >= 0 && col > 0; --k) {
-                    col = min(col, g[k][j]);
-                    ans += col;
+            for (int j = 0; j < n; j++) {
+                int minHeight = heights[j];
+                for (int k = j; k >= 0 && minHeight > 0; k--) {
+                    minHeight = min(minHeight, heights[k]);
+                    ans += minHeight;
                 }
             }
         }
