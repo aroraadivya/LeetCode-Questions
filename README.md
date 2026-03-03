@@ -694,6 +694,7 @@ Collection of LeetCode questions.
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -775,6 +776,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0498-diagonal-traverse) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2232-adding-spaces-to-a-string) |
@@ -1062,6 +1064,7 @@ Collection of LeetCode questions.
 | [0231-power-of-two](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0342-power-of-four) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
