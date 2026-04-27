@@ -1,4 +1,3 @@
-# Python 3
 from collections import deque
 from typing import List
 
