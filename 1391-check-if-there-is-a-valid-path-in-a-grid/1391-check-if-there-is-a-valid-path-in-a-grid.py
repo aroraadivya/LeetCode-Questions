@@ -1,10 +1,10 @@
-from collections import deque
-from typing import List
-
-class Solution:
-    def hasValidPath(self, grid: List[List[int]]) -> bool:
+class Solution(object):
+    def hasValidPath(self, grid):
+        """
+        :type grid: List[List[int]]
+        :rtype: bool
+        """
         m, n = len(grid), len(grid[0])
-        
         connects = {
             1: {0, 1},
             2: {2, 3},
@@ -17,13 +17,13 @@ class Solution:
         dc = [-1, 1, 0, 0]
         opp = [1, 0, 3, 2]
         
-        visited = [[False] * n for _ in range(m)]
-        queue = deque([(0, 0)])
+        visited = [[False]*n for _ in range(m)]
+        queue = [(0, 0)]
         visited[0][0] = True
         
         while queue:
-            r, c = queue.popleft()
-            if r == m - 1 and c == n - 1:
+            r, c = queue.pop(0)
+            if r == m-1 and c == n-1:
                 return True
             for d in range(4):
                 nr, nc = r + dr[d], c + dc[d]
