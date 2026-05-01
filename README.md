@@ -11,6 +11,7 @@ Collection of LeetCode questions.
 | [0326-power-of-three](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0826-soup-servings) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions.
 | [0070-climbing-stairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -108,6 +110,7 @@ Collection of LeetCode questions.
 | [0118-pascals-triangle](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
