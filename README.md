@@ -685,6 +685,7 @@ Collection of LeetCode questions.
 | ------- |
 | [0038-count-and-say](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0952-word-subsets) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -900,6 +901,7 @@ Collection of LeetCode questions.
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0796-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
