@@ -6,6 +6,7 @@ Collection of LeetCode questions.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0326-power-of-three) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions.
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0118-pascals-triangle) |
@@ -753,6 +755,7 @@ Collection of LeetCode questions.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0498-diagonal-traverse) |
