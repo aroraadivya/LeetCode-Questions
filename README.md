@@ -98,6 +98,7 @@ Collection of LeetCode questions.
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3660-jump-game-ix](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3660-jump-game-ix) |
 ## Memoization
 |  |
 | ------- |
@@ -291,6 +292,7 @@ Collection of LeetCode questions.
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3660-jump-game-ix](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3660-jump-game-ix) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
