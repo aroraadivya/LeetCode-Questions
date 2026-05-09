@@ -173,6 +173,7 @@ Collection of LeetCode questions.
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
@@ -777,6 +778,7 @@ Collection of LeetCode questions.
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1876-map-of-highest-peak) |
+| [1914-cyclically-rotating-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1972-rotating-the-box](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2145-grid-game) |
@@ -796,6 +798,7 @@ Collection of LeetCode questions.
 | ------- |
 | [0498-diagonal-traverse](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0498-diagonal-traverse) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1914-cyclically-rotating-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2232-adding-spaces-to-a-string) |
