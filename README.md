@@ -88,6 +88,7 @@ Collection of LeetCode questions.
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2562-count-ways-to-build-good-strings) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -245,6 +246,7 @@ Collection of LeetCode questions.
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2792-neighboring-bitwise-xor](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2868-continuous-subarrays) |
