@@ -116,6 +116,7 @@ Collection of LeetCode questions.
 | [0075-sort-colors](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0135-candy) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0368-largest-divisible-subset](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
@@ -508,6 +509,7 @@ Collection of LeetCode questions.
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
