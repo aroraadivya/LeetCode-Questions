@@ -144,6 +144,7 @@ Collection of LeetCode questions.
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1293-three-consecutive-odds) |
+| [1306-jump-game-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1345-jump-game-iv](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -844,6 +845,7 @@ Collection of LeetCode questions.
 | [0854-making-a-large-island](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1306-jump-game-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -908,6 +910,7 @@ Collection of LeetCode questions.
 | [0854-making-a-large-island](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1306-jump-game-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
