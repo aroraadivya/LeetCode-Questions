@@ -240,6 +240,7 @@ Collection of LeetCode questions.
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2681-put-marbles-in-bags](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2690-house-robber-iv) |
@@ -333,6 +334,7 @@ Collection of LeetCode questions.
 | [2509-minimize-xor](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2509-minimize-xor) |
 | [2529-range-product-queries-of-powers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -432,6 +434,7 @@ Collection of LeetCode questions.
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2689-rearranging-fruits](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
