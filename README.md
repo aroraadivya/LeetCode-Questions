@@ -51,6 +51,7 @@ Collection of LeetCode questions.
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3637-count-number-of-balanced-permutations](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
 |  |
@@ -103,6 +104,7 @@ Collection of LeetCode questions.
 | [3637-count-number-of-balanced-permutations](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3660-jump-game-ix](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3660-jump-game-ix) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
@@ -1147,6 +1149,7 @@ Collection of LeetCode questions.
 | [3548-find-the-count-of-good-integers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Recursion
