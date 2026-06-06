@@ -247,6 +247,7 @@ Collection of LeetCode questions.
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2574-left-and-right-sum-differences](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2574-left-and-right-sum-differences) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -730,6 +731,7 @@ Collection of LeetCode questions.
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2465-shifting-letters-ii) |
 | [2529-range-product-queries-of-powers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2529-range-product-queries-of-powers) |
+| [2574-left-and-right-sum-differences](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2574-left-and-right-sum-differences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3427-special-array-ii) |
