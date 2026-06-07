@@ -209,6 +209,7 @@ Collection of LeetCode questions.
 | [2179-most-beautiful-item-for-each-query](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -439,6 +440,7 @@ Collection of LeetCode questions.
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2107-find-unique-binary-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1004,6 +1006,7 @@ Collection of LeetCode questions.
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1024,6 +1027,7 @@ Collection of LeetCode questions.
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Ordered Set
