@@ -327,6 +327,7 @@ Collection of LeetCode questions.
 | [3660-jump-game-ix](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3660-jump-game-ix) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -627,6 +628,7 @@ Collection of LeetCode questions.
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -719,6 +721,7 @@ Collection of LeetCode questions.
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1055,6 +1058,7 @@ Collection of LeetCode questions.
 | [2280-count-good-triplets-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3161-block-placement-queries](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3791-fruits-into-baskets-iii) |
