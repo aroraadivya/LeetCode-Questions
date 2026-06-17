@@ -834,6 +834,7 @@ Collection of LeetCode questions.
 | [3455-minimum-length-of-string-after-operations](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -900,6 +901,7 @@ Collection of LeetCode questions.
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3838-weighted-word-mapping](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3838-weighted-word-mapping) |
 ## Breadth-First Search
