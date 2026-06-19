@@ -181,6 +181,7 @@ Collection of LeetCode questions.
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1732-find-the-highest-altitude](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-defuse-the-bomb](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1755-defuse-the-bomb) |
@@ -740,6 +741,7 @@ Collection of LeetCode questions.
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1732-find-the-highest-altitude](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1871-jump-game-vii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
