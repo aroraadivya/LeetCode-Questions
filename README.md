@@ -25,6 +25,7 @@ Collection of LeetCode questions.
 | [1500-count-largest-group](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1840-maximum-building-height](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1840-maximum-building-height) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2050-count-good-numbers) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions.
 | [1755-defuse-the-bomb](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1840-maximum-building-height](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1840-maximum-building-height) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1876-map-of-highest-peak) |
@@ -385,6 +387,7 @@ Collection of LeetCode questions.
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1840-maximum-building-height](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1840-maximum-building-height) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2126-destroying-asteroids](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
