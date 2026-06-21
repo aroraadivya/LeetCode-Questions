@@ -188,6 +188,7 @@ Collection of LeetCode questions.
 | [1755-defuse-the-bomb](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1840-maximum-building-height) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -387,6 +388,7 @@ Collection of LeetCode questions.
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1840-maximum-building-height) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2126-destroying-asteroids](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
@@ -607,6 +609,7 @@ Collection of LeetCode questions.
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1917-maximum-average-pass-ratio](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2089-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
@@ -1223,4 +1226,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
