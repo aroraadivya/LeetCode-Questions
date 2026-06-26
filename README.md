@@ -340,6 +340,7 @@ Collection of LeetCode questions.
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -502,6 +503,7 @@ Collection of LeetCode questions.
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
@@ -773,6 +775,7 @@ Collection of LeetCode questions.
 | [3643-zero-array-transformation-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Monotonic Queue
@@ -1096,6 +1099,7 @@ Collection of LeetCode questions.
 | [3161-block-placement-queries](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3791-fruits-into-baskets-iii) |
@@ -1120,6 +1124,7 @@ Collection of LeetCode questions.
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Trie
 |  |
 | ------- |
@@ -1220,6 +1225,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Probability and Statistics
 |  |
 | ------- |
