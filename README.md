@@ -305,6 +305,7 @@ Collection of LeetCode questions.
 | [3227-find-missing-and-repeated-values](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -747,6 +748,7 @@ Collection of LeetCode questions.
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -901,6 +903,7 @@ Collection of LeetCode questions.
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3227-find-missing-and-repeated-values) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -962,6 +965,7 @@ Collection of LeetCode questions.
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2793-count-the-number-of-complete-components) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -997,6 +1001,7 @@ Collection of LeetCode questions.
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Depth-First Search
@@ -1254,4 +1259,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
