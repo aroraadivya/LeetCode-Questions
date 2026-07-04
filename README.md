@@ -962,6 +962,7 @@ Collection of LeetCode questions.
 | [1558-course-schedule-iv](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1032,6 +1033,7 @@ Collection of LeetCode questions.
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1261,6 +1263,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1268,6 +1271,7 @@ Collection of LeetCode questions.
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
