@@ -79,6 +79,7 @@ Collection of LeetCode questions.
 | [1025-minimum-cost-for-tickets](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1170-shortest-common-supersequence) |
+| [1301-number-of-paths-with-max-score](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions.
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1293-three-consecutive-odds) |
+| [1301-number-of-paths-with-max-score](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1340-jump-game-v](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1340-jump-game-v) |
@@ -889,6 +891,7 @@ Collection of LeetCode questions.
 | [0854-making-a-large-island](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1301-number-of-paths-with-max-score](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
