@@ -108,6 +108,7 @@ Collection of LeetCode questions.
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3620-network-recovery-pathways](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3620-network-recovery-pathways) |
@@ -331,6 +332,7 @@ Collection of LeetCode questions.
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3620-network-recovery-pathways) |
@@ -388,6 +390,7 @@ Collection of LeetCode questions.
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -436,6 +439,7 @@ Collection of LeetCode questions.
 | [3321-type-of-triangle](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3430-count-days-without-meetings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
@@ -608,6 +612,7 @@ Collection of LeetCode questions.
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3427-special-array-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -661,6 +666,7 @@ Collection of LeetCode questions.
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
@@ -699,6 +705,7 @@ Collection of LeetCode questions.
 | [2699-count-the-number-of-fair-pairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -1280,5 +1287,6 @@ Collection of LeetCode questions.
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
