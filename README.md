@@ -55,6 +55,7 @@ Collection of LeetCode questions.
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3637-count-number-of-balanced-permutations](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -689,6 +690,7 @@ Collection of LeetCode questions.
 | [2716-prime-subtraction-operation](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2716-prime-subtraction-operation) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
