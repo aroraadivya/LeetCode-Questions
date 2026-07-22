@@ -341,6 +341,7 @@ Collection of LeetCode questions.
 | [3483-alternating-groups-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -630,6 +631,7 @@ Collection of LeetCode questions.
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3427-special-array-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3427-special-array-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -905,6 +907,7 @@ Collection of LeetCode questions.
 | [3447-clear-digits](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3614-process-string-with-special-operations-ii) |
@@ -1163,6 +1166,7 @@ Collection of LeetCode questions.
 | [2280-count-good-triplets-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3161-block-placement-queries](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
