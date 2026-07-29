@@ -50,6 +50,7 @@ Collection of LeetCode questions.
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -541,6 +542,7 @@ Collection of LeetCode questions.
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -574,6 +576,7 @@ Collection of LeetCode questions.
 | [3312-sorted-gcd-pair-queries](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sliding Window
@@ -919,6 +922,7 @@ Collection of LeetCode questions.
 | [3455-minimum-length-of-string-after-operations](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3614-process-string-with-special-operations-ii) |
@@ -1272,6 +1276,7 @@ Collection of LeetCode questions.
 | [2415-count-the-number-of-ideal-arrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
