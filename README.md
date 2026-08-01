@@ -13,6 +13,7 @@ Collection of LeetCode questions.
 | [0342-power-of-four](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0679-24-game) |
 | [0788-rotated-digits](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0797-rabbits-in-forest) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions.
 | [0368-largest-divisible-subset](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0788-rotated-digits](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0788-rotated-digits) |
@@ -153,6 +155,7 @@ Collection of LeetCode questions.
 | [0407-trapping-rain-water-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
@@ -1316,6 +1319,7 @@ Collection of LeetCode questions.
 | [0231-power-of-two](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1350,4 +1354,8 @@ Collection of LeetCode questions.
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3620-network-recovery-pathways) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
