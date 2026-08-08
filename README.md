@@ -121,6 +121,7 @@ Collection of LeetCode questions.
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -713,6 +714,7 @@ Collection of LeetCode questions.
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -762,6 +764,7 @@ Collection of LeetCode questions.
 | [2699-count-the-number-of-fair-pairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -935,6 +938,7 @@ Collection of LeetCode questions.
 | [3194-find-words-containing-character](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
