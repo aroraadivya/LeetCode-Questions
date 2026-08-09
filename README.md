@@ -19,6 +19,7 @@ Collection of LeetCode questions.
 | [0797-rabbits-in-forest](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0867-new-21-game) |
+| [1140-stone-game-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions.
 | [0934-bitwise-ors-of-subarrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1063-best-sightseeing-pair) |
+| [1140-stone-game-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1170-shortest-common-supersequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1340-jump-game-v) |
@@ -180,6 +182,7 @@ Collection of LeetCode questions.
 | [1025-minimum-cost-for-tickets](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1063-best-sightseeing-pair) |
+| [1140-stone-game-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1260-shift-2d-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
@@ -837,6 +840,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1140-stone-game-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1378,13 +1382,16 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
