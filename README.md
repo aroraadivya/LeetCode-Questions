@@ -323,6 +323,7 @@ Collection of LeetCode questions.
 | [2888-minimum-index-of-a-valid-split](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2915-count-of-interesting-subarrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -471,6 +472,7 @@ Collection of LeetCode questions.
 | [2784-check-if-array-is-good](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2784-check-if-array-is-good) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -549,6 +551,7 @@ Collection of LeetCode questions.
 | [2856-count-complete-subarrays-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2915-count-of-interesting-subarrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
