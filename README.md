@@ -389,6 +389,7 @@ Collection of LeetCode questions.
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -435,6 +436,7 @@ Collection of LeetCode questions.
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
 | ------- |
