@@ -362,6 +362,7 @@ Collection of LeetCode questions.
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -572,6 +573,7 @@ Collection of LeetCode questions.
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
