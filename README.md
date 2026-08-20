@@ -331,6 +331,7 @@ Collection of LeetCode questions.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3093-longest-common-suffix-queries](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3093-longest-common-suffix-queries) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -1046,6 +1047,7 @@ Collection of LeetCode questions.
 | [2553-separate-the-digits-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3447-clear-digits) |
