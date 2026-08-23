@@ -31,6 +31,7 @@ Collection of LeetCode questions.
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1840-maximum-building-height](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1840-maximum-building-height) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1927-sum-game](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2029-stone-game-ix) |
@@ -719,6 +720,7 @@ Collection of LeetCode questions.
 | [1833-maximum-ice-cream-bars](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1917-maximum-average-pass-ratio](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 | [2089-maximum-matrix-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2089-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
@@ -938,6 +940,7 @@ Collection of LeetCode questions.
 | [1871-jump-game-vii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1871-jump-game-vii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1927-sum-game](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1421,6 +1424,7 @@ Collection of LeetCode questions.
 | [1140-stone-game-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
