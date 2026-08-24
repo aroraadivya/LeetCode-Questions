@@ -30,6 +30,7 @@ Collection of LeetCode questions.
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1840-maximum-building-height](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1927-sum-game](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions.
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-jump-game-vii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -235,6 +237,7 @@ Collection of LeetCode questions.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1872-stone-game-viii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [1876-map-of-highest-peak](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -879,6 +882,7 @@ Collection of LeetCode questions.
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2145-grid-game) |
@@ -1424,6 +1428,7 @@ Collection of LeetCode questions.
 | [1140-stone-game-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -1432,6 +1437,7 @@ Collection of LeetCode questions.
 | [1140-stone-game-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -1439,6 +1445,7 @@ Collection of LeetCode questions.
 | [1140-stone-game-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
