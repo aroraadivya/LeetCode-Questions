@@ -652,6 +652,7 @@ Collection of LeetCode questions.
 | [2856-count-complete-subarrays-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -970,6 +971,7 @@ Collection of LeetCode questions.
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
