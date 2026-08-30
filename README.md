@@ -254,6 +254,7 @@ Collection of LeetCode questions.
 | [2029-stone-game-ix](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2089-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2107-find-unique-binary-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2107-find-unique-binary-string) |
 | [2126-destroying-asteroids](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -733,6 +734,7 @@ Collection of LeetCode questions.
 | [1927-sum-game](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 | [2089-maximum-matrix-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2089-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
