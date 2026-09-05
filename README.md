@@ -418,6 +418,7 @@ Collection of LeetCode questions.
 | [3838-weighted-word-mapping](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -920,6 +921,7 @@ Collection of LeetCode questions.
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3904-smallest-stable-index-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
