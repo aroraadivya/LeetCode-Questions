@@ -87,6 +87,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0396-rotate-function) |
@@ -933,6 +934,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0038-count-and-say) |
+| [0115-distinct-subsequences](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0768-partition-labels](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0768-partition-labels) |
 | [0796-rotate-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0868-push-dominoes) |
