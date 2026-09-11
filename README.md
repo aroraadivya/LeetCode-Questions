@@ -381,6 +381,7 @@ Collection of LeetCode questions.
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3483-alternating-groups-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -597,6 +598,7 @@ Collection of LeetCode questions.
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -1399,6 +1401,7 @@ Collection of LeetCode questions.
 | [3201-distribute-candies-among-children-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3548-find-the-count-of-good-integers) |
@@ -1418,6 +1421,7 @@ Collection of LeetCode questions.
 | [0486-predict-the-winner](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2050-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Merge Sort
