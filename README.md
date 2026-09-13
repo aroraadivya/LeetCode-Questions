@@ -185,6 +185,7 @@ Collection of LeetCode questions.
 | [0780-max-chunks-to-make-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0797-rabbits-in-forest) |
+| [0835-image-overlap](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0835-image-overlap) |
 | [0854-making-a-large-island](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1042,6 +1043,7 @@ Collection of LeetCode questions.
 | [0407-trapping-rain-water-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0787-sliding-puzzle) |
+| [0835-image-overlap](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0835-image-overlap) |
 | [0854-making-a-large-island](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
