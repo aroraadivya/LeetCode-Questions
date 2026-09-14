@@ -18,6 +18,7 @@ Collection of LeetCode questions.
 | [0788-rotated-digits](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0826-soup-servings) |
+| [0836-rectangle-overlap](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0836-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0867-new-21-game) |
 | [1140-stone-game-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -1497,4 +1498,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1510-stone-game-iv) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
