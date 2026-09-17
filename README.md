@@ -114,6 +114,7 @@ Collection of LeetCode questions.
 | [1340-jump-game-v](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1510-stone-game-iv) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1470-shuffle-the-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -550,6 +552,7 @@ Collection of LeetCode questions.
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1500-count-largest-group](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -656,6 +659,7 @@ Collection of LeetCode questions.
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1813-maximum-erasure-value) |
@@ -691,6 +695,7 @@ Collection of LeetCode questions.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
