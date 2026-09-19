@@ -22,6 +22,7 @@ Collection of LeetCode questions.
 | [0867-new-21-game](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0867-new-21-game) |
 | [1140-stone-game-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1448-maximum-69-number) |
@@ -1511,4 +1512,5 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
