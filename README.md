@@ -1029,6 +1029,7 @@ Collection of LeetCode questions.
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -1107,6 +1108,7 @@ Collection of LeetCode questions.
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3447-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3612-process-string-with-special-operations-i) |
