@@ -854,6 +854,7 @@ Collection of LeetCode questions.
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1096-brace-expansion-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -973,6 +974,7 @@ Collection of LeetCode questions.
 | [1160-letter-tile-possibilities](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1170-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -1526,4 +1528,8 @@ Collection of LeetCode questions.
 | ------- |
 | [0836-rectangle-overlap](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
