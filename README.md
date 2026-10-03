@@ -92,6 +92,7 @@ Collection of LeetCode questions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0118-pascals-triangle) |
@@ -855,6 +856,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1096-brace-expansion-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -966,6 +968,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0038-count-and-say) |
 | [0115-distinct-subsequences](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0768-partition-labels](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0768-partition-labels) |
@@ -1539,6 +1542,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
