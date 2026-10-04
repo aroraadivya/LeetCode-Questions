@@ -101,6 +101,7 @@ Collection of LeetCode questions.
 | [0416-partition-equal-subset-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0494-target-sum) |
+| [0678-valid-parenthesis-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0788-rotated-digits](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0788-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0806-domino-and-tromino-tiling) |
@@ -745,6 +746,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0135-candy](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0135-candy) |
+| [0678-valid-parenthesis-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0797-rabbits-in-forest) |
@@ -857,6 +859,7 @@ Collection of LeetCode questions.
 | ------- |
 | [0020-valid-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1096-brace-expansion-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -971,6 +974,7 @@ Collection of LeetCode questions.
 | [0032-longest-valid-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0038-count-and-say) |
 | [0115-distinct-subsequences](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0768-partition-labels) |
 | [0796-rotate-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0868-push-dominoes) |
@@ -1543,6 +1547,7 @@ Collection of LeetCode questions.
 | ------- |
 | [0020-valid-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
