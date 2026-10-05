@@ -861,6 +861,7 @@ Collection of LeetCode questions.
 | [0032-longest-valid-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0856-score-of-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -977,6 +978,7 @@ Collection of LeetCode questions.
 | [0678-valid-parenthesis-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0768-partition-labels) |
 | [0796-rotate-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0868-push-dominoes) |
 | [0940-distinct-subsequences-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [0952-word-subsets](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0952-word-subsets) |
@@ -1548,6 +1550,7 @@ Collection of LeetCode questions.
 | [0020-valid-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
