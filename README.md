@@ -977,6 +977,7 @@ Collection of LeetCode questions.
 | [0032-longest-valid-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0038-count-and-say) |
 | [0115-distinct-subsequences](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0768-partition-labels) |
 | [0796-rotate-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0796-rotate-string) |
@@ -1149,6 +1150,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0684-redundant-connection) |
@@ -1344,6 +1346,7 @@ Collection of LeetCode questions.
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0679-24-game) |
 | [1096-brace-expansion-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1096-brace-expansion-ii) |
