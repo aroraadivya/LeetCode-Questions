@@ -346,6 +346,7 @@ Collection of LeetCode questions.
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2784-check-if-array-is-good) |
 | [2792-neighboring-bitwise-xor](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -1460,6 +1461,7 @@ Collection of LeetCode questions.
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2998-count-symmetric-integers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3201-distribute-candies-among-children-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3201-distribute-candies-among-children-ii) |
