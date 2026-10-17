@@ -411,6 +411,7 @@ Collection of LeetCode questions.
 | [3525-find-x-value-of-array-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3620-network-recovery-pathways) |
@@ -540,6 +541,7 @@ Collection of LeetCode questions.
 | [3430-count-days-without-meetings](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3430-count-days-without-meetings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
@@ -633,6 +635,7 @@ Collection of LeetCode questions.
 | [3483-unique-3-digit-even-numbers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3548-find-the-count-of-good-integers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
