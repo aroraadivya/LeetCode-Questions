@@ -271,6 +271,7 @@ Collection of LeetCode questions.
 | [2029-stone-game-ix](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2089-maximum-matrix-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2107-find-unique-binary-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2107-find-unique-binary-string) |
 | [2126-destroying-asteroids](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
@@ -504,6 +505,7 @@ Collection of LeetCode questions.
 | [1840-maximum-building-height](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -726,6 +728,7 @@ Collection of LeetCode questions.
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
