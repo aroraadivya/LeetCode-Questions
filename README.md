@@ -450,6 +450,7 @@ Collection of LeetCode questions.
 | [3875-construct-uniform-parity-array-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
