@@ -210,6 +210,7 @@ Collection of LeetCode questions.
 | [1140-stone-game-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1254-number-of-closed-islands](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1293-three-consecutive-odds](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1293-three-consecutive-odds) |
 | [1301-number-of-paths-with-max-score](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
@@ -1123,6 +1124,7 @@ Collection of LeetCode questions.
 | [0854-making-a-large-island](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1254-number-of-closed-islands](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1195,6 +1197,7 @@ Collection of LeetCode questions.
 | [0945-snakes-and-ladders](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1096-brace-expansion-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1265,6 +1268,7 @@ Collection of LeetCode questions.
 | [0854-making-a-large-island](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1536,6 +1540,7 @@ Collection of LeetCode questions.
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
