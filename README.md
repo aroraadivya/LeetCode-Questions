@@ -417,6 +417,7 @@ Collection of LeetCode questions.
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3620-network-recovery-pathways) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1149,6 +1150,7 @@ Collection of LeetCode questions.
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -1220,6 +1222,7 @@ Collection of LeetCode questions.
 | [3310-remove-methods-from-project](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1292,6 +1295,7 @@ Collection of LeetCode questions.
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Eulerian Circuit
@@ -1544,6 +1548,7 @@ Collection of LeetCode questions.
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Counting Sort
 |  |
 | ------- |
