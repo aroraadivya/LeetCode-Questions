@@ -160,6 +160,7 @@ Collection of LeetCode questions.
 | [3637-count-number-of-balanced-permutations](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3660-jump-game-ix](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3665-twisted-mirror-path-count) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -433,6 +434,7 @@ Collection of LeetCode questions.
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3660-jump-game-ix](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3665-twisted-mirror-path-count) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -1159,6 +1161,7 @@ Collection of LeetCode questions.
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3665-twisted-mirror-path-count](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3665-twisted-mirror-path-count) |
 ## Simulation
 |  |
 | ------- |
