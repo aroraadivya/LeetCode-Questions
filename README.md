@@ -41,6 +41,7 @@ Collection of LeetCode questions.
 | [2050-count-good-numbers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2409-count-days-spent-together](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2409-count-days-spent-together) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2448-count-number-of-bad-pairs) |
@@ -1069,6 +1070,7 @@ Collection of LeetCode questions.
 | [2300-construct-string-with-repeat-limit](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2409-count-days-spent-together](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2409-count-days-spent-together) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
