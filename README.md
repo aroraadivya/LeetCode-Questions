@@ -230,6 +230,7 @@ Collection of LeetCode questions.
 | [1345-jump-game-iv](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1364-tuple-with-same-product) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
@@ -519,6 +520,7 @@ Collection of LeetCode questions.
 | [1096-brace-expansion-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1340-jump-game-v) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -748,6 +750,7 @@ Collection of LeetCode questions.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -879,6 +882,7 @@ Collection of LeetCode questions.
 | [0075-sort-colors](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/aroraadivya/LeetCode-Questions/tree/master/0868-push-dominoes) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
