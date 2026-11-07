@@ -269,6 +269,7 @@ Collection of LeetCode questions.
 | [1872-stone-game-viii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [1876-map-of-highest-peak](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1882-process-tasks-using-servers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1882-process-tasks-using-servers) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1914-cyclically-rotating-a-grid) |
@@ -959,6 +960,7 @@ Collection of LeetCode questions.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1882-process-tasks-using-servers](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1882-process-tasks-using-servers) |
 | [1917-maximum-average-pass-ratio](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
