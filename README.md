@@ -221,6 +221,7 @@ Collection of LeetCode questions.
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1254-number-of-closed-islands](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1293-three-consecutive-odds](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1293-three-consecutive-odds) |
 | [1301-number-of-paths-with-max-score](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1306-jump-game-iii) |
@@ -686,6 +687,7 @@ Collection of LeetCode questions.
 | [1160-letter-tile-possibilities](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1267-count-servers-that-communicate](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1364-tuple-with-same-product](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1502-construct-k-palindrome-strings) |
@@ -1159,6 +1161,7 @@ Collection of LeetCode questions.
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1254-number-of-closed-islands](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
@@ -1233,6 +1236,7 @@ Collection of LeetCode questions.
 | [1096-brace-expansion-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1306,6 +1310,7 @@ Collection of LeetCode questions.
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1584,6 +1589,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aroraadivya/LeetCode-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
