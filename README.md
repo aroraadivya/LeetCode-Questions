@@ -90,6 +90,7 @@ Collection of LeetCode questions.
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3871-count-commas-in-range-ii) |
@@ -869,6 +870,7 @@ Collection of LeetCode questions.
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Number Theory
 |  |
 | ------- |
