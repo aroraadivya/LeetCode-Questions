@@ -407,6 +407,7 @@ Collection of LeetCode questions.
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -746,6 +747,7 @@ Collection of LeetCode questions.
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1026,6 +1028,7 @@ Collection of LeetCode questions.
 | [2691-count-vowel-strings-in-ranges](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/aroraadivya/LeetCode-Questions/tree/master/2915-count-of-interesting-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-special-array-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aroraadivya/LeetCode-Questions/tree/master/3618-find-the-original-typed-string-ii) |
